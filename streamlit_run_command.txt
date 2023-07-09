@@ -1,0 +1,2 @@
+streamlit run "C:\Users\csumi\Desktop\MedDetect\multipledetection.py"
+
